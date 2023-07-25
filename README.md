@@ -1,3 +1,6 @@
+
+![Header](Perfil/perfil.jpeg)
+<br>
 # Perfil de Maritza
 Una breve introducción de quien es Maritza Rendon y su experiencia en el mundo Web
 
