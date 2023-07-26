@@ -13,9 +13,9 @@ Una breve introducción de quien es Maritza Rendon y su experiencia en el mundo 
 	
 </ul>
 <p align="left"><i><b>
-🎓 Estudiante en Relaciones Económicas Internacionales <br>
-👩‍🏫 Asesora de inglés <br>
-🏊‍♀️ Práctico natación <br>
+🎓  Estudiante en Relaciones Económicas Internacionales <br>
+👩‍🏫  Asesora de inglés <br>
+🏊‍♀️  Práctico natación <br>
 
   </i></b></p>
 
