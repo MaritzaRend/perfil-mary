@@ -14,7 +14,7 @@ Una breve introducción de quien es Maritza Rendon y su experiencia en el mundo 
 </ul>
 <p align="left"><i><b>
 🎓  Estudiante en Relaciones Económicas Internacionales <br>
-👩‍🏫  Asesora de inglés <br>
+👩‍🏫  Instructora de inglés <br>
 🏊‍♀️  Práctico natación <br>
 
   </i></b></p>
@@ -26,7 +26,7 @@ Una breve introducción de quien es Maritza Rendon y su experiencia en el mundo 
   <a href="https://instagram.com/mariitza.cr?igshid=NGExMmI2YTkyZg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maritza-rendon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:andreamaritzarendon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
-  <a href="https://twitte/_i"><img src="https://img.shields.io/badge/-Twitter-%1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" target="_blank"></a>
+  
 </div>
 
 
